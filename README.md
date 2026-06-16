@@ -105,6 +105,22 @@ I'm **Mythilesh Kalyankar** — an aspiring **Data Analyst** on a mission to tra
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kmythilesh/Kmythilesh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kmythilesh/Kmythilesh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kmythilesh/Kmythilesh/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+---
+
 ## 🔝 Top Contributed Repos
 
 <div align="center">
