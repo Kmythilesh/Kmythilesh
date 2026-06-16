@@ -109,7 +109,7 @@ I'm **Mythilesh Kalyankar** — an aspiring **Data Analyst** on a mission to tra
 
 <div align="center">
 
-[![Mythilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kmythilesh&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mythilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kmythilesh&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=bf91f3&point=ff6e96&area=true&area_color=bf91f3&hide_border=true&radius=8&custom_title=🔥%20Mythilesh's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -120,20 +120,7 @@ I'm **Mythilesh Kalyankar** — an aspiring **Data Analyst** on a mission to tra
 ## 🌊 Wave of Code
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Wave of Code"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave1"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave2"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave3"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave4"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave5"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave6"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave7"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave8"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave9"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50" alt="wave10"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Wave"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
