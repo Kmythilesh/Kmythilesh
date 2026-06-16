@@ -105,16 +105,24 @@ I'm **Mythilesh Kalyankar** — an aspiring **Data Analyst** on a mission to tra
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kmythilesh/Kmythilesh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kmythilesh/Kmythilesh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kmythilesh/Kmythilesh/output/github-snake-dark.svg" />
-</picture>
+[![Mythilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kmythilesh&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+---
+
+## 🌊 Coding Vibes
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-9d89-6e4e69de6e2e.gif" width="100" alt="Tech Icons"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
