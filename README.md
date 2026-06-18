@@ -23,7 +23,7 @@
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-I'm **Mythilesh Kalyankar** — an aspiring **Data Analyst** on a mission to transform messy, complex data into clear, actionable business insights. I believe the best decisions are data-driven ones, and I'm building the skills to make that happen every single day.
+I'm **Mythilesh Kalyankar** an aspiring **Data Analyst** on a mission to transform messy, complex data into clear, actionable business insights. I believe the best decisions are data-driven ones, and I'm building the skills to make that happen every single day.
 
 - 🚀 **Currently working on:** Real-world data projects like **Olist E-Commerce Analysis** & **IPL Analysis**
 - 🐍 **Core stack:** Python · SQL · Power BI · Excel — tools I use daily to wrangle, analyze & visualize data
